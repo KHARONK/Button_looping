@@ -1,0 +1,28 @@
+
+.button 
+{
+  width: 5em;
+  height: 5em;
+  padding: 0;
+  border-color: deeppink;
+  background-color: aliceblue;
+  margin: 20px;
+  margin-left: 50px;
+  box-shadow: 1px 1px 5px gray;
+
+}
+    
+button:hover
+ {
+   color: deeppink;
+   
+ }
+
+.button 
+{
+  border-radius: 100%;
+}
+          
+
+      
+  
